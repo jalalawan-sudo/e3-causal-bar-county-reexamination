@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2026 Jalal Awan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Data licensing
+--------------
+Each source dataset in data/ retains its original license:
+
+- FracTracker Alliance: see https://www.fractracker.org/ for terms.
+- EPA AQS, USGS, Census ACS, FCC Form 477, DOE LEAD, CDC SVI: U.S. federal
+  government works, generally public domain.
+- NREL SLOPE, NREL ReV 2023: see https://maps.nrel.gov/slope/ and
+  https://www.nrel.gov/ for terms.
+- SEPA / NCCETC DELTa: Copyright (c) SEPA and N.C. Clean Energy Technology
+  Center, 2025-2026. See https://sepapower.org/large-load-tariffs-database/.
+- E3 (2026) source whitepaper: Copyright (c) Energy and Environmental
+  Economics, Inc.
+
+The author-built scoring rubric and merged analytic outputs in this
+repository are released under the MIT license above.

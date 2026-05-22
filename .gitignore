@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Intermediates (regenerable from source)
+data/analytic/
+
+# Build outputs
+build/
+dist/
+
+# Large source files we keep in-repo (do not ignore)
+# data/source_paper/*.pdf  — keep
+# data/facilities/*.csv    — keep
+# data/county_panel/*.csv  — keep
+# data/tariffs/*.xlsx      — keep
+# paper/*.docx             — keep
